@@ -1,2 +1,2 @@
-# Pokemon
+# covidinfo
 Created with CodeSandbox
